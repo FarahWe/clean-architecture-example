@@ -14,7 +14,7 @@ The project follows a modular structure with the following directories under the
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/clean-architecture-example.git`
+1. Clone the repository: `git clone https://github.com/FarahWe/clean-architecture-example.git`
 2. Install the dependencies: `npm install` or `yarn install`
 3. Build the project: `npm run build` or `yarn build`
 4. Run the project: `npm start` or `yarn start`
